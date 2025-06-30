@@ -1,8 +1,8 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "vendocart/core",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Vendocart is a modern headless eCommerce backend built on Laravel.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
